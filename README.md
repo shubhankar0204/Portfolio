@@ -3,7 +3,7 @@ Personal Portfolio Website
 This is a modern, single-page personal portfolio website designed to showcase my skills, projects, and academic achievements. It features a clean, dark-themed user interface with a glass-effect and is fully responsive for optimal viewing on any device.
 
 ✨ Live Demo
-[Link to your live demo will go here once the project is deployed.]
+https://shubhankar0204.github.io/Portfolio/
 
 🚀 Key Features
 Modern & Sleek UI: Aesthetically pleasing design featuring a dark theme, gradient text effects, and a glass-effect header.
